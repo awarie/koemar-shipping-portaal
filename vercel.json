@@ -4,7 +4,6 @@
   "installCommand": "npm install",
   "framework": null,
   "devCommand": "vite",
-  "functions": {},
   "rewrites": [
     {
       "source": "/(.*)",
